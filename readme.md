@@ -1,4 +1,4 @@
-<h3>Syntax selfstudy</h3>
+<h2>Syntax selfstudy</h2>
 <li>C#</li>
 <li>.NET</li>
 
