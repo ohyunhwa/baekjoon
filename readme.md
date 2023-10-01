@@ -5,16 +5,14 @@
 
 <h2>Let's start</h2>
 
-현재 디렉토리를 C# 프로젝트 폴더로 사용하기 위한 명령어
+<li>현재 디렉토리를 C# 프로젝트 폴더로 사용하기 위한 명령어</li>
 
 ```
 # in selfstudy directory
 dotnet new console
 ```
 
-<br>
-
-Main 내의 코드 실행하기 
+<li>Main 내의 코드 실행하기</li> 
 
 ```
 # in selfstudy directory
