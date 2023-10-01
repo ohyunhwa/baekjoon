@@ -1,0 +1,15 @@
+/Users/hxxnhxx/Documents/workspace/selfstudy/obj/Debug/net5.0/selfstudy.csproj.AssemblyReference.cache
+/Users/hxxnhxx/Documents/workspace/selfstudy/obj/Debug/net5.0/selfstudy.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hxxnhxx/Documents/workspace/selfstudy/obj/Debug/net5.0/selfstudy.AssemblyInfoInputs.cache
+/Users/hxxnhxx/Documents/workspace/selfstudy/obj/Debug/net5.0/selfstudy.AssemblyInfo.cs
+/Users/hxxnhxx/Documents/workspace/selfstudy/obj/Debug/net5.0/selfstudy.csproj.CoreCompileInputs.cache
+/Users/hxxnhxx/Documents/workspace/selfstudy/bin/Debug/net5.0/selfstudy.deps.json
+/Users/hxxnhxx/Documents/workspace/selfstudy/bin/Debug/net5.0/selfstudy.runtimeconfig.json
+/Users/hxxnhxx/Documents/workspace/selfstudy/bin/Debug/net5.0/selfstudy.runtimeconfig.dev.json
+/Users/hxxnhxx/Documents/workspace/selfstudy/bin/Debug/net5.0/selfstudy.dll
+/Users/hxxnhxx/Documents/workspace/selfstudy/bin/Debug/net5.0/ref/selfstudy.dll
+/Users/hxxnhxx/Documents/workspace/selfstudy/bin/Debug/net5.0/selfstudy.pdb
+/Users/hxxnhxx/Documents/workspace/selfstudy/obj/Debug/net5.0/selfstudy.dll
+/Users/hxxnhxx/Documents/workspace/selfstudy/obj/Debug/net5.0/ref/selfstudy.dll
+/Users/hxxnhxx/Documents/workspace/selfstudy/obj/Debug/net5.0/selfstudy.pdb
+/Users/hxxnhxx/Documents/workspace/selfstudy/obj/Debug/net5.0/selfstudy.genruntimeconfig.cache
