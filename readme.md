@@ -12,7 +12,7 @@
 dotnet new console
 ```
 
-<li>Main 내의 코드 실행하기</li> 
+<li>Main 함수 코드 실행하기</li> 
 
 ```
 # in selfstudy directory
