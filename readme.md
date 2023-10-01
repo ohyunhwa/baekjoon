@@ -1,5 +1,5 @@
-<h2>Syntax selfstudy</h2>
-<li>C#</li>
+<h2>Intro</h2>
+<li>C# selfstudy repository</li>
 
 <br>
 
