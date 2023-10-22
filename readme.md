@@ -1,9 +1,9 @@
-<h2>Intro</h2>
+<h2>🔎 Introduction</h2>
 <li>C# selfstudy repository</li>
 
 <br>
 
-<h2>Let's start</h2>
+<h2>👩🏻‍💻 Commands</h2>
 
 <li>현재 디렉토리를 C# 프로젝트 폴더로 사용하기 위한 명령어</li>
 
@@ -19,6 +19,6 @@ dotnet new console
 dotnet run
 ```
 
-<h2>References</h2>
+<h2>📚 References</h2>
 <li>C# : https://wikidocs.net/124616</li>
 <li>Algorithm: https://www.acmicpc.net/problemset</li>
