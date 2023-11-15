@@ -1,1 +1,1 @@
-<h1>Selfstudy</h1>
+<h1>Algorithm - Python selfstudy</h1>
