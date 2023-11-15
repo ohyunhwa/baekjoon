@@ -1,1 +1,1 @@
-<a href="https://www.acmicpc.net/problem/">Problem source</a>
+<a href="https://www.acmicpc.net/problem/">Source</a>
